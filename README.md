@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @wkcho99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+# 👋 Hi, I’m wkcho99
+## 🌱 Education
+* POSTECH CSE : 2018.02 ~
+## 👀 Skills
+* C/C++, Python, JavaScript, CSS, HTML5  
+* ReactJS, Unity
 
 <!---
 wkcho99/wkcho99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
