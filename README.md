@@ -2,6 +2,7 @@
 # 👋 Hi, I’m wkcho99
 ## 🌱 Education
 * POSTECH CSE : 2018.02 ~
+* Linköping University(LiU) : 2022.08 ~
 ## 👀 Skills
 * C/C++, Python, JavaScript, CSS, HTML5  
 * ReactJS, Unity
