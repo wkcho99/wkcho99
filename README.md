@@ -2,10 +2,10 @@
 # 👋 Hi, I’m wkcho99
 ## 🌱 Education
 * POSTECH CSE : 2018.02 ~
-* Linköping University(LiU) : 2022.08 ~
+* Linköping University(LiU) : 2022.08 ~ 2023.01
 ## 👀 Skills
 * C/C++, Python, JavaScript, CSS, HTML5  
-* ReactJS, Unity
+* ReactJS, React Native, Unity, Godot
 
 <!---
 wkcho99/wkcho99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
